@@ -1,4 +1,4 @@
-# cloud Computing
+# Cloud Computing
 Project CC1
 TCC 3141 - Cloud Computing 
 Trimester 1, 2021/22 
@@ -10,6 +10,7 @@ Trimester 1, 2021/22
 The purpose of this project is to design and develop a simple mobile application on the cloud.  
 
 The task is :
+
 Enhance the BMI application (accessible here: https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing)  
 that was developed using MIT App Inventor (https://appinventor.mit.edu/). The enhancement must include the following: 
 
