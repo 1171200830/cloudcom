@@ -29,9 +29,6 @@ BMI Range for adults BMI : weight status Below 18.5 : Underweight 18.5 – 24.9 
 Distributed under the MIT License. See LICENSE for more information.
 
 
-# Manual Usage
-
-
 # Contributers
 * RIVETHA RAMAN 1171200830
 * THANUSHREE KANNAN 1171200709
