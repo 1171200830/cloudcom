@@ -24,7 +24,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 # Features
-* BMi Calculator
+* BMI Calculator
 * CloudDB Chat
 * Walking Steps Couter
 
