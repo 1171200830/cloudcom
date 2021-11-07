@@ -33,7 +33,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 # Contributers
-* RivethaRaman 1171200830
+* RIVETHA RAMAN 1171200830
 * THANUSHREE KANNAN 1171200709
 * Kannan Nair 1171202244
 * THIVIYAN S.REGANATHAN 1171201535
